@@ -1,5 +1,6 @@
 # FIF_DashboardApp
-Lead a team of 3 in the ongoing development of a dashboard application for the non profit organization Feed it Forward. The goal of the product was to digitalize the store operations, such as creating a membership program for their customers information and a tracking system to monitor daily transactions. Also, we are currently developing a tracking system to monitor and log product stock, donations/amount donated, and additional analytics.  
+
+Developed a web application for a micro-POS system for transaction management integrated with a membership model using React, Node.js, PostgreSQL and Heroku
 
 My role included but was not limited to: Building the front-end interface with JavaScript and HTML, and utilized the PostgreSQL database, Node.js and JavaScript for back-end requests and architecture. Deployed full stack application to heroku. 
 
